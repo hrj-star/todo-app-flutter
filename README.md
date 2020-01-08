@@ -4,7 +4,7 @@
 * Database used is sqflite -SQLite plugin for Flutter which acts as a local database.
 
 ## To run the app
-* Clone / download OR Copy the lib folder and pubspec.yml to any base flutter project.
+* Clone / download OR Copy the lib folder and pubspec.yaml to any base flutter project.
 - Run the app with :
 
       flutter run

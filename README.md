@@ -15,6 +15,10 @@
 * Edit , Update ,Delete the Todo.
 * Share the Todo with any app that shares text.
 
+## Demo 
+
+![](demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
